@@ -79,14 +79,13 @@ main::sys(){
                   if wget "${urlparser}" -q -O "$2"; then
                    Tulis.strN "[//] Status : Done\n[//] Name : $2\n[//] type : mp4"
                  else
-                      Tulis.strN "[**] Status : {Not found}\n[**] Name : $2\n[**] type : {Not found}"
-                      return 1
-                   fi
-              else
-                   curl -sL "$urlparser">$2 || { xdg-open --view "${urlparser}"; } || {
+                      curl -sL "$urlparser">$2 || { xdg-open --view "${urlparser}"; } || {
                    	Tulis.strN "[**] Error code(2.2)"
                    	 exit 2
                    }
+               else
+                   Tulis.strN "[**] Status : {Not found}\n[**] Name : $2\n[**] type : {Not found}
+                     exit 1
                fi
            fi
            }
