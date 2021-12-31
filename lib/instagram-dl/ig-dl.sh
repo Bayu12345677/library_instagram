@@ -65,6 +65,7 @@ main::sys(){
            if [[ $cek_code == 200 ]]; then
               if test -z "$2"; then
                  Tulis.strN "[//] Error argument name not found\n\tsys::code(2,5)\n\t<Argument not found>\n\t<Argument empety>\n[ArgumentError]"
+                   exit 2
               fi
                 urlparser=$(
                     curl --silent \
