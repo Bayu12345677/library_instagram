@@ -2,6 +2,8 @@
 
 Bash.import "$(pwd)/lib/text_display/string.sh"
 
+# author : polygon
+
 sys::urlparser(){
 	local url="$1"
 
