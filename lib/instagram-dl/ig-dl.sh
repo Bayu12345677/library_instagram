@@ -84,7 +84,7 @@ main::sys(){
                    	 exit 2
                    }
                else
-                   Tulis.strN "[**] Status : {Not found}\n[**] Name : $2\n[**] type : {Not found}
+                   Tulis.strN "[**] Status : {Not found}\n[**] Name : $2\n[**] type : {Not found}"
                      exit 1
                fi
            fi
