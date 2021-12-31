@@ -1,5 +1,10 @@
 #!/bin/bash
 
+: '
+      Author : Polygon
+      Team   : Helixs-crew
+'
+
 sys::@file(){
 	local __ll__str_arg="$1"
 
