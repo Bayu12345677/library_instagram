@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# author : polygon
+
 sys::valid(){
     if type -a echo>/dev/null 2>&1; then
          return 0
