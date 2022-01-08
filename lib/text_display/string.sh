@@ -33,5 +33,3 @@ shopt -s expand_aliases
 
 alias Tulis.strN='echo -e'
 alias Tulis.str='printf'
-
-trap "Keyboard::Exit" INT SIGINT
