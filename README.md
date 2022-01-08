@@ -2,6 +2,18 @@
   Bash library
 </h1></div>
 
+-->
+     update 1.1
+<--
+
+```python
+Feature :
+         1.support all rute
+         2.colorama
+         3.new color
+```
+
+
 - ### Mulai
 
 pengertian library apa itu library libary adalah sekumpulan fungsi fungsi
