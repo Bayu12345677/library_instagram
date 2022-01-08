@@ -91,6 +91,7 @@ Bash::mode.dl.ig <url> <nama_video>
 Bash.ig-dl <url> <name_video>.mp4 color: <color>
 ```
 <br>
+<body>
 <p align="center">example ↓
   <img src="https://github.com/Bayu12345677/library_instagram/blob/main/img/Screenshot_20220108-123133~2.png" heigth="15" width="300" alt="logo" border="5">
 </p><br>
@@ -100,7 +101,8 @@ Bash.ig-dl <url> <name_video>.mp4 color: <color>
 <p align="center">result ↓
   <img src="https://github.com/Bayu12345677/library_instagram/blob/main/img/Screenshot_20220108-125103~2.png" with="700" alt="logo" border="5">
 </p><br>
-   
+</body>
+
 =======================================<br>
 
 - `Donasi` : [Saweria](https://saweria.co/Polygon)
