@@ -69,7 +69,7 @@ source "$(pwd)"/lib/moduler.sh
 
 Bash.import "$(pwd)/lib/instagram-dl/ig-dl.sh"
 
-Bash::mode.dl.ig <url> <nama_video>
+Bash::mode.dl.ig <url> <nama_video> color: <warna>
 ```
 <br>
 
