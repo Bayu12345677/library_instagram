@@ -94,7 +94,7 @@ Bash.ig-dl <url> <name_video>.mp4 color: <color>
 <p align="center">
   <img src="https://github.com/Bayu12345677/library_instagram/blob/main/img/Screenshot_20220108-123133.png" heigth="15" width="300">example
 </p>
-==================================================<br>
+=======================================<br>
 
 - `Donasi` : [Saweria](https://saweria.co/Polygon)
 
