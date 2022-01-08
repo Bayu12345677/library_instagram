@@ -5,6 +5,7 @@ Bash.import $(pwd)/lib/text_display/colorama.sh
 
 # author : polygon
 # sertakan author jika anda ingin mengubah source
+# nomor telephone saya : 6285731184377
 # updatet : 1.1
 
 sys::urlparser(){
