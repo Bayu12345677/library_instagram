@@ -70,6 +70,23 @@ source "$(pwd)"/lib/moduler.sh
 Bash.import "$(pwd)/lib/instagram-dl/ig-dl.sh"
 
 Bash::mode.dl.ig <url> <nama_video>
+```<br>
+
+- list color
+```bash
+       red
+       green
+       yellow
+       blue
+       magenta
+       cyan
+       violet
+       white
+```<br>
+
+`example usage color`
+
+Bash.ig-dl <url> <name_video>.mp4 color: <color>
 ```
 
 - `Donasi` : [Saweria](https://saweria.co/Polygon)
