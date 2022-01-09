@@ -17,7 +17,7 @@ Feature :
 - ### Mulai
 
 pengertian library apa itu library libary adalah sekumpulan fungsi fungsi
-yg bisa di kita gunakan di source code kita
+yg bisa kita gunakan di source code kita
 
 cara menggunakan nya sangat simple
 langkah peratama kalian wajib menginstall paket yg di butuh kan
