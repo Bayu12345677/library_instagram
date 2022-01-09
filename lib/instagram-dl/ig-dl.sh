@@ -36,7 +36,7 @@ st="\e[00m"
         _kosong=$(Tulis.str "%${_kiri}s")
 
         # buat progress bar menggunakan printf dengan string
-        # contoh outpur :
+        # contoh output :
         # downloading : [##########################] 100%
 
         Tulis.str "\rDownloading : [${_timpa// /${g}}${_kosong// /▓}] ${_progress}%%"
