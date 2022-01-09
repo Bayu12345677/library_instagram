@@ -107,5 +107,5 @@ Bash.ig-dl <url> <name_video>.mp4 color: <color>
 
 - `Donasi` : [Saweria](https://saweria.co/Polygon)
 
-- <Report bug : 6285731184377>
-- <Email : bayuriski558@gmail.com>
+- Report bug : 6285731184377
+- Email : bayuriski558@gmail.com
