@@ -3,14 +3,14 @@
 </h1></div>
 
 -->
-     update 1.1
+     update 1.2
 <--
 
 ```python
 Feature :
-         1.support all rute
-         2.colorama
-         3.new color
+         1.fix Error logic
+         2.fix moduler.sh
+         3.<comming soon>
 ```
 
 
