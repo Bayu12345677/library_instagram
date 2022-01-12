@@ -92,7 +92,7 @@ Bash.ig-dl <url> <name_video>.mp4 color: <color>
 ```
 <br>
 <body>
-<p align="center">example ↓
+<p align="center">example source ↓
   <img src="https://github.com/Bayu12345677/library_instagram/blob/main/img/Screenshot_20220108-123133~2.png" heigth="15" width="300" alt="logo" border="5">
 </p><br>
 <p align="center">usage ↓
