@@ -6,13 +6,15 @@
      update 1.2
 <--
 
-```python
-Feature :
-         1.fix Error logic
-         2.fix moduler.sh
-         3.<comming soon>
-```
+<a href="https://github.com/Bayu12345677">
+  <code><img src="https://readme-typing-svg.herokuapp.com?color=%238F00FF&lines=Library%20ig-dl%20Bourne%20Again%20shell" width="212"></code></a>
 
+```python
+Feature:
+         1.progress bar
+         2.custom color progress bar
+         3.support all route
+```
 
 - ### Mulai
 
